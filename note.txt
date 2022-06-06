@@ -1,0 +1,2 @@
+https://www.geeksforgeeks.org/a-simple-news-app-with-tkinter-and-newsapi/
+https://github.com/Rohitw3code/py-News-python-news-using-tkinter
